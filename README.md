@@ -31,7 +31,7 @@ Unity2D의 기능을 이용하여 만들어본 간단한 프로젝트입니다.
 ## 게임플레이
 - 캐릭터 조작
   
-|<p align="center">이동방향|<p align="center">좌(LEFT)|<p align="center">우(RIGHT)|<p align="center">공격(ATTACK)|
+|이동방향|좌(LEFT)|우(RIGHT)|공격(ATTACK)|
 |---|---|---|---|
 |<p align="center">키보드|<p align="center">A|<p align="center">D|<p align="center">Z|
 
